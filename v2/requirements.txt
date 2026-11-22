@@ -1,0 +1,5 @@
+Flask>=3.0,<4
+SQLAlchemy>=2.0,<3
+pydantic>=2.5,<3
+# Only needed if DATABASE_URL points at MySQL:
+# mysql-connector-python>=9.0

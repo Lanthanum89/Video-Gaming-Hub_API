@@ -1,6 +1,8 @@
 
 # Video Gaming Hub API
 
+> **There's a newer version.** This is the original 2025 assignment, kept as-is. See [`v2/`](v2/) for a rewrite, and [`v2/RETROSPECTIVE.md`](v2/RETROSPECTIVE.md) for what's wrong with this version and why.
+
 A Flask-based RESTful API for managing a video game lending system. The API allows you to manage games, customers, and game loans, and is backed by a MySQL database.
 
 ## Features
